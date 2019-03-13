@@ -7,6 +7,7 @@
   - [The problem :confused:](#the-problem-confused)
   - [Solution :sunglasses:](#solution-sunglasses)
     - [Recommendation Key :key:](#recommendation-key-key)
+    - [Note :exclamation:](#note-exclamation)
   - [Books :books:](#books-books)
     - [React & GraphQL](#react--graphql)
     - [Design patterns in JavaScript](#design-patterns-in-javascript)
@@ -44,15 +45,18 @@ I will mark each book or article with the following emoji to let you know if I'v
 
 ---
 
+### Note :exclamation:
+
+> The stack most used in my list is React, GraphQL, and JavaScript, in no particular order. This is because it is the stack I am most familiar with. If you want to see Angular or Vue, [submit a pull request](https://github.com/twhite96/web-dev-must-reads/pulls). I would ask you to keep it to JavaScript technologies.
+
 ## Books :books:
 
 Books are broken down by technology/stack or concept. Feel free to add yours by opening a [pull request](https://github.com/twhite96/web-dev-must-reads/pulls).
 
 
 ### React & GraphQL
-- Progressive Web Apps With React: Create Lightning Fast Web Apps With - Native Power Using React and Firebase
-- The Road to GraphQL
-- React Enlightenment
+- [Progressive Web Apps With React: Create Lightning Fast Web Apps With - Native Power Using React and Firebase](https://www.amazon.com/Progressive-Web-Apps-React-lightning-ebook/dp/B076SZY9P9) 💰🧐
+- [The Road to GraphQL](https://roadtoreact.com/course-details?courseId=THE_ROAD_TO_GRAPHQL) 🤓👍🏾
 
 ### Design patterns in JavaScript
 - [Learning JavaScript Design Patterns: A JavaScript and jQuery Developer's Guide](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
@@ -64,12 +68,12 @@ Books are broken down by technology/stack or concept. Feel free to add yours by 
 ### Core concepts
 - Eloquent JavaScript, 3rd Edition: A Modern Introduction to Programming
 - Maintainable JavaScript
-- You Don't Know JS: Async & Performance
-- You Don't Know JS: Scope & Closures
-- You Don't Know JS: This & Object Prototypes
-- You Don't Know JS: Types & Grammar
-- You Don’t Know JS: Up & Going
-- You Don't Know JS: ES6 & Beyond
+- [You Don’t Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/tree/master/up%20%26%20going) 🤓👍🏾✅
+- [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures) 🤓👍🏾✅
+- [You Don't Know JS: This & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/tree/master/this%20%26%20object%20prototypes) 🤓👍🏾
+- [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/tree/master/types%20%26%20grammar) 🤓👍🏾
+- [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/tree/master/async%20%26%20performance) 🤓👍🏾
+- [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond) 🤓👍🏾
 
 ### Software architecture
 - Programming JavaScript Applications: Robust Web Architecture With Node,HTML5, and Modern JS Libraries
@@ -111,6 +115,9 @@ Books are broken down by technology/stack or concept. Feel free to add yours by 
 - The Road to Learn React: Your Journey to Master Plain Yet Pragmatic React.Js
 
 ## Articles :memo:
+
+Articles are broken down into tech stack and soft skills, as well as core JavaScript concepts. Feel free to add yours by opening a [pull request](https://github.com/twhite96/web-dev-must-reads/pulls).
+
 
 ### React
 - [How the “Golden Rule” of React components can help you write better code](https://medium.freecodecamp.org/how-the-golden-rule-of-react-components-can-help-you-write-better-code-127046b478eb) ✅
