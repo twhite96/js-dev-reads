@@ -7,7 +7,7 @@
   - [The problem](#the-problem)
   - [Solution](#solution)
     - [Recommendation Key](#recommendation-key)
-  - [📚 Books](#%F0%9F%93%9A-books)
+  - [Books](#books)
     - [React & GraphQL](#react--graphql)
     - [Design patterns in JavaScript](#design-patterns-in-javascript)
     - [Node](#node)
@@ -44,7 +44,7 @@ I will mark each book or article with the following emoji to let you know if I'v
 
 ---
 
-## 📚 Books
+## Books
 
 Books are broken down by technology/stack or concept. Feel free to add yours by opening a [pull request](https://github.com/twhite96/web-dev-must-reads/pulls).
 
