@@ -4,10 +4,10 @@
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/cc-0.svg)](https://forthebadge.com)
 - [The JavaScript Developer's Reading List](#the-javascript-developers-reading-list)
-  - [The problem 🙁](#the-problem-%F0%9F%99%81)
-  - [Solution 😎](#solution-%F0%9F%98%8E)
-    - [Recommendation Key 🔑](#recommendation-key-%F0%9F%94%91)
-  - [Books 📚](#books-%F0%9F%93%9A)
+  - [The problem :confused:](#the-problem-confused)
+  - [Solution :sunglasses:](#solution-sunglasses)
+    - [Recommendation Key :key:](#recommendation-key-key)
+  - [Books :books:](#books-books)
     - [React & GraphQL](#react--graphql)
     - [Design patterns in JavaScript](#design-patterns-in-javascript)
     - [Node](#node)
@@ -15,22 +15,22 @@
     - [Software architecture](#software-architecture)
     - [Data structures and algorithms](#data-structures-and-algorithms)
     - [Miscellaneous](#miscellaneous)
-  - [Articles 📝](#articles-%F0%9F%93%9D)
+  - [Articles :memo:](#articles-memo)
     - [React](#react)
     - [Core concepts](#core-concepts-1)
     - [JavaScript misc.](#javascript-misc)
     - [Soft skills](#soft-skills)
 
 
-## The problem 🙁
+## The problem :confused:
 
 There are *a lot* of web development reading materials out there, from books to videos to blog posts. How can you know what is actually worth reading?
 
-## Solution 😎
+## Solution :sunglasses:
 
 Here I have hand-picked web development/JavaScript books and articles I have personally read or have come highly recommended to me by other developers.
 
-### Recommendation Key 🔑
+### Recommendation Key :key:
 
 I will mark each book or article with the following emoji to let you know if I've:
 
@@ -44,7 +44,7 @@ I will mark each book or article with the following emoji to let you know if I'v
 
 ---
 
-## Books 📚
+## Books :books:
 
 Books are broken down by technology/stack or concept. Feel free to add yours by opening a [pull request](https://github.com/twhite96/web-dev-must-reads/pulls).
 
@@ -110,7 +110,7 @@ Books are broken down by technology/stack or concept. Feel free to add yours by 
 - Functional-Light JavaScript: Pragmatic, Balanced FP in JavaScript
 - The Road to Learn React: Your Journey to Master Plain Yet Pragmatic React.Js
 
-## Articles 📝
+## Articles :memo:
 
 ### React
 - [How the “Golden Rule” of React components can help you write better code](https://medium.freecodecamp.org/how-the-golden-rule-of-react-components-can-help-you-write-better-code-127046b478eb) ✅
