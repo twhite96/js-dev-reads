@@ -3,16 +3,11 @@
 > An awesome list of hand-picked books for JavaScript developers
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/cc-0.svg)](https://forthebadge.com)
-
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
 - [The JavaScript Developer's Reading List](#the-javascript-developers-reading-list)
-  - [The problem 🙁](#the-problem-%F0%9F%99%81)
-  - [Solution 😎](#solution-%F0%9F%98%8E)
-    - [Recommendation Key 🔑](#recommendation-key-%F0%9F%94%91)
-  - [Books 📚](#books-%F0%9F%93%9A)
+  - [The problem](#the-problem)
+  - [Solution](#solution)
+    - [Recommendation Key](#recommendation-key)
+  - [📚 Books](#%F0%9F%93%9A-books)
     - [React & GraphQL](#react--graphql)
     - [Design patterns in JavaScript](#design-patterns-in-javascript)
     - [Node](#node)
@@ -20,23 +15,22 @@
     - [Software architecture](#software-architecture)
     - [Data structures and algorithms](#data-structures-and-algorithms)
     - [Miscellaneous](#miscellaneous)
-  - [Articles 📝](#articles-%F0%9F%93%9D)
+  - [Articles](#articles)
     - [React](#react)
     - [Core concepts](#core-concepts-1)
     - [JavaScript misc.](#javascript-misc)
     - [Soft skills](#soft-skills)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## The problem 🙁
+## The problem
 
 There are *a lot* of web development reading materials out there, from books to videos to blog posts. How can you know what is actually worth reading?
 
-## Solution 😎
+## Solution
 
 Here I have hand-picked web development/JavaScript books and articles I have personally read or have come highly recommended to me by other developers.
 
-### Recommendation Key 🔑
+### Recommendation Key
 
 I will mark each book or article with the following emoji to let you know if I've:
 
@@ -50,7 +44,7 @@ I will mark each book or article with the following emoji to let you know if I'v
 
 ---
 
-## Books 📚
+## 📚 Books
 
 Books are broken down by technology/stack or concept. Feel free to add yours by opening a [pull request](https://github.com/twhite96/web-dev-must-reads/pulls).
 
@@ -116,7 +110,7 @@ Books are broken down by technology/stack or concept. Feel free to add yours by 
 - Functional-Light JavaScript: Pragmatic, Balanced FP in JavaScript
 - The Road to Learn React: Your Journey to Master Plain Yet Pragmatic React.Js
 
-## Articles 📝
+## Articles
 
 ### React
 - [How the “Golden Rule” of React components can help you write better code](https://medium.freecodecamp.org/how-the-golden-rule-of-react-components-can-help-you-write-better-code-127046b478eb) ✅
