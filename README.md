@@ -6,6 +6,7 @@
 - [The JavaScript Developer's Reading List](#the-javascript-developers-reading-list)
   - [The problem :confused:](#the-problem-confused)
   - [Solution :sunglasses:](#solution-sunglasses)
+    - [Things to think about :thinking:](#things-to-think-about-thinking)
     - [Note :exclamation:](#note-exclamation)
   - [Books :books:](#books-books)
     - [React & GraphQL](#react--graphql)
@@ -30,8 +31,9 @@ There are *a lot* of web development reading materials out there, from books to 
 
 Here I have hand-picked web development/JavaScript books and articles I have personally read or have come highly recommended to me by other developers.
 
+### Things to think about :thinking:
 
-> Note: free books. Who doesn't like free books?! But if you are able, buy the book if it is offered as an option. No worries if you can't. But if it helps the devs continue to put out quality content then it is worth it.
+> Free books. Who doesn't like free books?! But if you are able, buy the book if it is offered as an option. No worries if you can't. But if it helps the devs continue to put out quality content then it is worth it.
 
 ---
 
