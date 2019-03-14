@@ -48,13 +48,17 @@ Books are broken down by technology/stack or concept. Feel free to add yours by 
 ### React & GraphQL
 - [Progressive Web Apps With React: Create Lightning Fast Web Apps With - Native Power Using React and Firebase](https://www.amazon.com/Progressive-Web-Apps-React-lightning-ebook/dp/B076SZY9P9)
 - [The Road to GraphQL](https://roadtoreact.com/course-details?courseId=THE_ROAD_TO_GRAPHQL)
+- The Road to Learn React: Your Journey to Master Plain Yet Pragmatic React.Js
 
 ### Design patterns in JavaScript
 - [Learning JavaScript Design Patterns: A JavaScript and jQuery Developer's Guide](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- Node.js Design Patterns
+- Mastering JavaScript Design Patterns
 
 ### Node
 - Node.js Handbook
-
+- Jump Start Node.js
+- Node.js: Practical Guide for Beginners (Programming is Easy Book 12)
 
 ### Core concepts
 - Eloquent JavaScript, 3rd Edition: A Modern Introduction to Programming
@@ -65,45 +69,33 @@ Books are broken down by technology/stack or concept. Feel free to add yours by 
 - [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/tree/master/types%20%26%20grammar)
 - [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/tree/master/async%20%26%20performance)
 - [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond)
-
-### Software architecture
-- Programming JavaScript Applications: Robust Web Architecture With Node,HTML5, and Modern JS Libraries
-- Building Progressive Web Apps: Bringing the Power of Native to the Browser
-
-### Data structures and algorithms
-
-### Miscellaneous
-- Websocket: Lightweight Client-Server Communications
-
-
-
-
-
-- JavaScript Cookbook 2nd Edition by Powers, Shelley (2015) Paperback
-- Quick JavaScript Interview Questions: Frequently Asked Question on - JavaScript
-- Experiments in Computer Science with Functional Programming
-- Professor Frisbys Mostly Adequate Guide to Functional Programming
-- The Problem with Native JavaScript APIs
-- NODE. JS: Practical Guide for Beginners (Programming is Easy Book 12)
-- Simply JavaScript
-- The JavaScript Anthology: 101 Essential Tips, Tricks & Hacks
-- AngularJS Programming Cookbook
-- What Every JavaScript Developer Should Know About ECMAScript 2015 (OdeToCode Programming Series)
-- Algorithms (4th Edition)
-- JavaScript and JSON Essentials
-- Functional Programming in JavaScript
-- Node.js Design Patterns
-- Mastering JavaScript Design Patterns
 - Object-Oriented JavaScript
-- Jump Start Node.js
 - Learning ECMAScript 6
 - Understanding ECMAScript 6
 - Modern JavaScript
 - Front-end Developer Handbook 2018
 - Javascript Allongé
-- Learning Three.js: The JavaScript 3D Library for WebGL
+- Professor Frisbys Mostly Adequate Guide to Functional Programming
+- Simply JavaScript
+
+### Software architecture
+- Programming JavaScript Applications: Robust Web Architecture With Node,HTML5, and Modern JS Libraries
+- Building Progressive Web Apps: Bringing the Power of Native to the Browser
+- Functional Programming in JavaScript
 - Functional-Light JavaScript: Pragmatic, Balanced FP in JavaScript
-- The Road to Learn React: Your Journey to Master Plain Yet Pragmatic React.Js
+
+
+### Data structures and algorithms
+- Algorithms (4th Edition)
+- Data Structures and Algorithms With JavaScript
+
+### Miscellaneous
+- Websocket: Lightweight Client-Server Communications
+- Learning Three.js: The JavaScript 3D Library for WebGL
+- Quick JavaScript Interview Questions: Frequently Asked Question on - JavaScript
+- The Problem with Native JavaScript APIs
+- What Every JavaScript Developer Should Know About ECMAScript 2015 (OdeToCode Programming Series)
+
 
 [Back to top ↑](#the-javascript-developers-reading-list)
 
