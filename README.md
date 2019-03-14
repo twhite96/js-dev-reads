@@ -105,6 +105,8 @@ Books are broken down by technology/stack or concept. Feel free to add yours by 
 - Functional-Light JavaScript: Pragmatic, Balanced FP in JavaScript
 - The Road to Learn React: Your Journey to Master Plain Yet Pragmatic React.Js
 
+[Back to top ↑](#the-javascript-developers-reading-list)
+
 ## Articles :memo:
 
 Articles are broken down into tech stack and soft skills, as well as core JavaScript concepts. Feel free to add yours by opening a [pull request](https://github.com/twhite96/web-dev-must-reads/pulls).
@@ -127,3 +129,6 @@ Articles are broken down into tech stack and soft skills, as well as core JavaSc
 ### Soft skills
 - [How to be an awesome teammate from day one as a Junior Developer with these tips](https://medium.freecodecamp.org/how-to-be-an-awesome-teammate-from-day-one-as-a-junior-developer-with-these-tips-725f04000059)
 - [Ace your first year as a junior developer with this advice](https://medium.freecodecamp.org/ace-your-first-year-as-a-junior-developer-with-this-advice-bbc68b6fe2d9)
+
+
+[Back to top ↑](#the-javascript-developers-reading-list)
