@@ -1,8 +1,8 @@
 # The JavaScript Developer's Reading List
 
-> An awesome list of hand-picked books and articles for JavaScript developers
+> A list of hand-picked books and articles for JavaScript developers
 
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/cc-0.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/cc-0.svg)](https://forthebadge.com)
 - [The JavaScript Developer's Reading List](#the-javascript-developers-reading-list)
   - [The problem :confused:](#the-problem-confused)
   - [Solution :sunglasses:](#solution-sunglasses)
