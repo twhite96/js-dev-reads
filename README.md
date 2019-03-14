@@ -6,7 +6,6 @@
 - [The JavaScript Developer's Reading List](#the-javascript-developers-reading-list)
   - [The problem :confused:](#the-problem-confused)
   - [Solution :sunglasses:](#solution-sunglasses)
-    - [Recommendation Key :key:](#recommendation-key-key)
     - [Note :exclamation:](#note-exclamation)
   - [Books :books:](#books-books)
     - [React & GraphQL](#react--graphql)
@@ -31,15 +30,6 @@ There are *a lot* of web development reading materials out there, from books to 
 
 Here I have hand-picked web development/JavaScript books and articles I have personally read or have come highly recommended to me by other developers.
 
-### Recommendation Key :key:
-
-I will mark each book or article with the following emoji to let you know if I've:
-
-1. read the book or article: ✅
-2. have had the book or article highly recommended to me by several developers: 👍🏾
-3. have heard of the book or article but can't get a consensus on how well the book/article delivers on its premise: 🧐
-4. is free: 🤓
-5. or costs money/or is behind a paywall (Medium) and where to buy the book: 💰
 
 > Note: free books. Who doesn't like free books?! But if you are able, buy the book if it is offered as an option. No worries if you can't. But if it helps the devs continue to put out quality content then it is worth it.
 
@@ -55,8 +45,8 @@ Books are broken down by technology/stack or concept. Feel free to add yours by 
 
 
 ### React & GraphQL
-- [Progressive Web Apps With React: Create Lightning Fast Web Apps With - Native Power Using React and Firebase](https://www.amazon.com/Progressive-Web-Apps-React-lightning-ebook/dp/B076SZY9P9) 💰🧐
-- [The Road to GraphQL](https://roadtoreact.com/course-details?courseId=THE_ROAD_TO_GRAPHQL) 🤓👍🏾
+- [Progressive Web Apps With React: Create Lightning Fast Web Apps With - Native Power Using React and Firebase](https://www.amazon.com/Progressive-Web-Apps-React-lightning-ebook/dp/B076SZY9P9)
+- [The Road to GraphQL](https://roadtoreact.com/course-details?courseId=THE_ROAD_TO_GRAPHQL)
 
 ### Design patterns in JavaScript
 - [Learning JavaScript Design Patterns: A JavaScript and jQuery Developer's Guide](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
@@ -68,12 +58,12 @@ Books are broken down by technology/stack or concept. Feel free to add yours by 
 ### Core concepts
 - Eloquent JavaScript, 3rd Edition: A Modern Introduction to Programming
 - Maintainable JavaScript
-- [You Don’t Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/tree/master/up%20%26%20going) 🤓👍🏾✅
-- [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures) 🤓👍🏾✅
-- [You Don't Know JS: This & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/tree/master/this%20%26%20object%20prototypes) 🤓👍🏾
-- [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/tree/master/types%20%26%20grammar) 🤓👍🏾
-- [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/tree/master/async%20%26%20performance) 🤓👍🏾
-- [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond) 🤓👍🏾
+- [You Don’t Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/tree/master/up%20%26%20going)
+- [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures)
+- [You Don't Know JS: This & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/tree/master/this%20%26%20object%20prototypes)
+- [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/tree/master/types%20%26%20grammar)
+- [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/tree/master/async%20%26%20performance)
+- [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond)
 
 ### Software architecture
 - Programming JavaScript Applications: Robust Web Architecture With Node,HTML5, and Modern JS Libraries
@@ -120,19 +110,19 @@ Articles are broken down into tech stack and soft skills, as well as core JavaSc
 
 
 ### React
-- [How the “Golden Rule” of React components can help you write better code](https://medium.freecodecamp.org/how-the-golden-rule-of-react-components-can-help-you-write-better-code-127046b478eb) ✅
-- [How to Write Your Own Reusable React Component Library](https://itnext.io/how-to-write-your-own-reusable-react-component-library-a57dc7c9a210) ✅
-- [Data Visualization Libraries for React Developers in 2019](https://medium.com/dailyjs/data-visualization-libraries-for-react-developers-in-2019-a2b9c01262f8) 🧐
-- [How to set up & deploy your React app from scratch using Webpack and Babel](https://medium.freecodecamp.org/how-to-set-up-deploy-your-react-app-from-scratch-using-webpack-and-babel-a669891033d4) 🧐
+- [How the “Golden Rule” of React components can help you write better code](https://medium.freecodecamp.org/how-the-golden-rule-of-react-components-can-help-you-write-better-code-127046b478eb)
+- [How to Write Your Own Reusable React Component Library](https://itnext.io/how-to-write-your-own-reusable-react-component-library-a57dc7c9a210)
+- [Data Visualization Libraries for React Developers in 2019](https://medium.com/dailyjs/data-visualization-libraries-for-react-developers-in-2019-a2b9c01262f8)
+- [How to set up & deploy your React app from scratch using Webpack and Babel](https://medium.freecodecamp.org/how-to-set-up-deploy-your-react-app-from-scratch-using-webpack-and-babel-a669891033d4)
 
 ### Core concepts
-- [JavaScript Template Literals and styled-components](https://medium.com/@celsius/javascript-template-literals-and-styled-components-d18f97500ffd) ✅
+- [JavaScript Template Literals and styled-components](https://medium.com/@celsius/javascript-template-literals-and-styled-components-d18f97500ffd)
 -
 
 ### JavaScript misc.
-- [Performance vs Readability – Noteworthy - The Journal Blog](https://blog.usejournal.com/performance-vs-readability-2e9332730790) ✅
+- [Performance vs Readability – Noteworthy - The Journal Blog](https://blog.usejournal.com/performance-vs-readability-2e9332730790)
 
 
 ### Soft skills
-- [How to be an awesome teammate from day one as a Junior Developer with these tips](https://medium.freecodecamp.org/how-to-be-an-awesome-teammate-from-day-one-as-a-junior-developer-with-these-tips-725f04000059) ✅
-- [Ace your first year as a junior developer with this advice](https://medium.freecodecamp.org/ace-your-first-year-as-a-junior-developer-with-this-advice-bbc68b6fe2d9) ✅
+- [How to be an awesome teammate from day one as a Junior Developer with these tips](https://medium.freecodecamp.org/how-to-be-an-awesome-teammate-from-day-one-as-a-junior-developer-with-these-tips-725f04000059)
+- [Ace your first year as a junior developer with this advice](https://medium.freecodecamp.org/ace-your-first-year-as-a-junior-developer-with-this-advice-bbc68b6fe2d9)
