@@ -76,7 +76,7 @@ Luciano Mammino
 - [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/tree/master/async%20%26%20performance) - Kyle Simpson
 - [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond) - Kyle Simpson
 - [Principles of Object-Oriented Programming in JavaScript](https://leanpub.com/oopinjavascript) - Nicholas Zakas
-- [Understanding ECMAScript 6](https://leanpub.com/understandinges6)
+- [Understanding ECMAScript 6](https://leanpub.com/understandinges6) - Nicholas Zakas
 - Front-end Developer Handbook 2018
 - Javascript Allongé
 - Professor Frisbys Mostly Adequate Guide to Functional Programming
