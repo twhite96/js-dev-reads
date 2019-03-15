@@ -1,26 +1,29 @@
-# The JavaScript Developer's Reading List
-
-> A list of hand-picked books and articles for JavaScript developers
+<p align="center">
+  <a href=" https://github.com/twhite96/js-dev-reads">
+    <img src="https://res.cloudinary.com/twhiteblog/image/upload/v1552618235/books_kwrzd1.svg" alt="JavaScript Dev Reading List" />
+  </a>
+  <h1 align="center">The JavaScript Developer's Reading List</h1>
+  <blockquote align="center">A list of hand-picked books and articles for JavaScript developers</blockquote>
+</p>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/cc-0.svg)](https://forthebadge.com)
-- [The JavaScript Developer's Reading List](#the-javascript-developers-reading-list)
-  - [The problem :confused:](#the-problem-confused)
-  - [Solution :sunglasses:](#solution-sunglasses)
-    - [Things to think about :thinking:](#things-to-think-about-thinking)
-    - [Note :exclamation:](#note-exclamation)
-  - [Books :books:](#books-books)
-    - [React & GraphQL](#react--graphql)
-    - [Design patterns in JavaScript](#design-patterns-in-javascript)
-    - [Node](#node)
-    - [Core concepts](#core-concepts)
-    - [Software architecture](#software-architecture)
-    - [Data structures and algorithms](#data-structures-and-algorithms)
-    - [Miscellaneous](#miscellaneous)
-  - [Articles :memo:](#articles-memo)
-    - [React](#react)
-    - [Core concepts](#core-concepts-1)
-    - [JavaScript misc.](#javascript-misc)
-    - [Soft skills](#soft-skills)
+- [The problem :confused:](#the-problem-confused)
+- [Solution :sunglasses:](#solution-sunglasses)
+  - [Things to think about :thinking:](#things-to-think-about-thinking)
+  - [Note :exclamation:](#note-exclamation)
+- [Books :books:](#books-books)
+  - [React & GraphQL](#react--graphql)
+  - [Design patterns in JavaScript](#design-patterns-in-javascript)
+  - [Node](#node)
+  - [Core concepts](#core-concepts)
+  - [Software architecture](#software-architecture)
+  - [Data structures and algorithms](#data-structures-and-algorithms)
+  - [Miscellaneous](#miscellaneous)
+- [Articles :memo:](#articles-memo)
+  - [React](#react)
+  - [Core concepts](#core-concepts-1)
+  - [JavaScript misc.](#javascript-misc)
+  - [Soft skills](#soft-skills)
 
 ## The problem :confused:
 
@@ -51,7 +54,7 @@ Books are broken down by technology/stack or concept. Feel free to add yours by 
 - The Road to Learn React: Your Journey to Master Plain Yet Pragmatic React.Js
 
 ### Design patterns in JavaScript
-- [Learning JavaScript Design Patterns: A JavaScript and jQuery Developer's Guide](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- [Learning JavaScript Design Patterns: A JavaScript and jQuery Developer's Guide](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) - Addy Osmani
 - Node.js Design Patterns
 - Mastering JavaScript Design Patterns
 
@@ -63,16 +66,14 @@ Books are broken down by technology/stack or concept. Feel free to add yours by 
 ### Core concepts
 - Eloquent JavaScript, 3rd Edition: A Modern Introduction to Programming
 - Maintainable JavaScript
-- [You Don’t Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/tree/master/up%20%26%20going)
-- [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures)
-- [You Don't Know JS: This & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/tree/master/this%20%26%20object%20prototypes)
-- [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/tree/master/types%20%26%20grammar)
-- [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/tree/master/async%20%26%20performance)
-- [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond)
-- Object-Oriented JavaScript
-- Learning ECMAScript 6
-- Understanding ECMAScript 6
-- Modern JavaScript
+- [You Don’t Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/tree/master/up%20%26%20going) - Kyle Simpson
+- [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures) - Kyle Simpson
+- [You Don't Know JS: This & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/tree/master/this%20%26%20object%20prototypes) - Kyle Simpson
+- [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/tree/master/types%20%26%20grammar) - Kyle Simpson
+- [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/tree/master/async%20%26%20performance) - Kyle Simpson
+- [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond) - Kyle Simpson
+- [Principles of Object-Oriented Programming in JavaScript](https://leanpub.com/oopinjavascript) - Nicholas Zakas
+- [Understanding ECMAScript 6](https://leanpub.com/understandinges6)
 - Front-end Developer Handbook 2018
 - Javascript Allongé
 - Professor Frisbys Mostly Adequate Guide to Functional Programming
@@ -124,3 +125,5 @@ Articles are broken down into tech stack and soft skills, as well as core JavaSc
 
 
 [Back to top ↑](#the-javascript-developers-reading-list)
+
+
