@@ -58,7 +58,6 @@ Books are broken down by technology/stack or concept. Feel free to add yours by 
 - [Learning JavaScript Design Patterns: A JavaScript and jQuery Developer's Guide](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) - Addy Osmani
 - [Node.js Design Patterns](https://www.amazon.com/Node-js-Design-Patterns-server-side-applications-ebook/dp/B01D8HIIFU) - Mario Casciaro &
 Luciano Mammino
-- Mastering JavaScript Design Patterns
 
 ### Node
 - [Node.js Handbook](https://flaviocopes.com/page/ebooks/) - Flavio Copes
