@@ -3,8 +3,9 @@
     <img src="https://res.cloudinary.com/twhiteblog/image/upload/v1552618235/books_kwrzd1.svg" alt="JavaScript Dev Reading List" />
   </a>
   <h1 align="center">The JavaScript Developer's Reading List</h1>
-  <blockquote align="center">A list of hand-picked books and articles for JavaScript developers</blockquote>
 </p>
+
+> A list of hand-picked books and articles for JavaScript developers
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/cc-0.svg)](https://forthebadge.com)
 - [The problem :confused:](#the-problem-confused)
