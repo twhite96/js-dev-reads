@@ -50,23 +50,24 @@ Books are broken down by technology/stack or concept. Feel free to add yours by 
 
 
 ### React & GraphQL
-- [Progressive Web Apps With React: Create Lightning Fast Web Apps With - Native Power Using React and Firebase](https://www.amazon.com/Progressive-Web-Apps-React-lightning-ebook/dp/B076SZY9P9)
-- [The Road to GraphQL](https://roadtoreact.com/course-details?courseId=THE_ROAD_TO_GRAPHQL)
-- The Road to Learn React: Your Journey to Master Plain Yet Pragmatic React.Js
+- [Progressive Web Apps With React: Create Lightning Fast Web Apps With - Native Power Using React and Firebase](https://www.amazon.com/Progressive-Web-Apps-React-lightning-ebook/dp/B076SZY9P9) - Scott Domes
+- [The Road to GraphQL](https://roadtoreact.com/course-details?courseId=THE_ROAD_TO_GRAPHQL) - Robin Wieruch
+- [The Road to Learn React: Your Journey to Master Plain Yet Pragmatic React.Js](https://roadtoreact.com/) - Robin Wieruch
 
 ### Design patterns in JavaScript
 - [Learning JavaScript Design Patterns: A JavaScript and jQuery Developer's Guide](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) - Addy Osmani
-- Node.js Design Patterns
+- [Node.js Design Patterns](https://www.amazon.com/Node-js-Design-Patterns-server-side-applications-ebook/dp/B01D8HIIFU) - Mario Casciaro &
+Luciano Mammino
 - Mastering JavaScript Design Patterns
 
 ### Node
-- Node.js Handbook
-- Jump Start Node.js
-- Node.js: Practical Guide for Beginners (Programming is Easy Book 12)
+- [Node.js Handbook](https://flaviocopes.com/page/ebooks/) - Flavio Copes
+> Books by Flavio require a newsletter sign up but I think it is worth it
+
 
 ### Core concepts
-- Eloquent JavaScript, 3rd Edition: A Modern Introduction to Programming
-- Maintainable JavaScript
+- [Eloquent JavaScript, 3rd Edition: A Modern Introduction to Programming](https://eloquentjavascript.net/Eloquent_JavaScript.pdf) - Marijn Haverbeke
+- [Maintainable JavaScript](https://www.amazon.com/Maintainable-JavaScript-Writing-Readable-Code/dp/1449327680) - Nicholas Zakas
 - [You Don’t Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/tree/master/up%20%26%20going) - Kyle Simpson
 - [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures) - Kyle Simpson
 - [You Don't Know JS: This & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/tree/master/this%20%26%20object%20prototypes) - Kyle Simpson
