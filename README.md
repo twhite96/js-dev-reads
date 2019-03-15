@@ -8,6 +8,8 @@
 > A list of hand-picked books and articles for JavaScript developers
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/cc-0.svg)](https://forthebadge.com)
+
+[![PRs Welcome](https://img.shields.io/badge/prs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 - [The problem :confused:](#the-problem-confused)
 - [Solution :sunglasses:](#solution-sunglasses)
   - [Things to think about :thinking:](#things-to-think-about-thinking)
