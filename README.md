@@ -62,7 +62,7 @@ Luciano Mammino
 
 ### Node
 - [Node.js Handbook](https://flaviocopes.com/page/ebooks/) - Flavio Copes
-> Books by Flavio require a newsletter sign up but I think it is worth it
+*Books by Flavio require a newsletter sign up but I think it is worth it.*
 
 
 ### Core concepts
