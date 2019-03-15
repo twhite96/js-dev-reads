@@ -107,22 +107,27 @@ Articles are broken down into tech stack and soft skills, as well as core JavaSc
 
 
 ### React
-- [How the “Golden Rule” of React components can help you write better code](https://medium.freecodecamp.org/how-the-golden-rule-of-react-components-can-help-you-write-better-code-127046b478eb)
-- [How to Write Your Own Reusable React Component Library](https://itnext.io/how-to-write-your-own-reusable-react-component-library-a57dc7c9a210)
-- [Data Visualization Libraries for React Developers in 2019](https://medium.com/dailyjs/data-visualization-libraries-for-react-developers-in-2019-a2b9c01262f8)
-- [How to set up & deploy your React app from scratch using Webpack and Babel](https://medium.freecodecamp.org/how-to-set-up-deploy-your-react-app-from-scratch-using-webpack-and-babel-a669891033d4)
+- [How the “Golden Rule” of React components can help you write better code](https://medium.freecodecamp.org/how-the-golden-rule-of-react-components-can-help-you-write-better-code-127046b478eb) - Rico Kahler
+- [How to Write Your Own Reusable React Component Library](https://itnext.io/how-to-write-your-own-reusable-react-component-library-a57dc7c9a210) - Connor Wilson
+- [Data Visualization Libraries for React Developers in 2019](https://medium.com/dailyjs/data-visualization-libraries-for-react-developers-in-2019-a2b9c01262f8) - Veronika Rovnik
+- [How to set up & deploy your React app from scratch using Webpack and Babel](https://medium.freecodecamp.org/how-to-set-up-deploy-your-react-app-from-scratch-using-webpack-and-babel-a669891033d4) - Nathan Sebhastian
+- [I made a mistake implementing a React Hook and got a denial of service from my backend](https://dev.to/adamwknox/i-made-a-mistake-implementing-a-react-hook-and-got-a-denial-of-service-from-my-backend-5cji) -
+DrKnoxy
+- [How Does setState Know What to Do?](https://overreacted.io/how-does-setstate-know-what-to-do/) - Dan Abramov
 
 ### Core concepts
-- [JavaScript Template Literals and styled-components](https://medium.com/@celsius/javascript-template-literals-and-styled-components-d18f97500ffd)
+- [JavaScript Template Literals and styled-components](https://medium.com/@celsius/javascript-template-literals-and-styled-components-d18f97500ffd) - Celsius
+- [How to make your future self happy by writing good docs](https://dev.to/gabcimato/how-to-make-your-future-self-happy-by-writing-good-docs-h8p) -
+Gabriele Cimato
 -
 
 ### JavaScript misc.
-- [Performance vs Readability – Noteworthy - The Journal Blog](https://blog.usejournal.com/performance-vs-readability-2e9332730790)
+- [Performance vs Readability – Noteworthy - The Journal Blog](https://blog.usejournal.com/performance-vs-readability-2e9332730790) - Riccardo Polacci
 
 
 ### Soft skills
-- [How to be an awesome teammate from day one as a Junior Developer with these tips](https://medium.freecodecamp.org/how-to-be-an-awesome-teammate-from-day-one-as-a-junior-developer-with-these-tips-725f04000059)
-- [Ace your first year as a junior developer with this advice](https://medium.freecodecamp.org/ace-your-first-year-as-a-junior-developer-with-this-advice-bbc68b6fe2d9)
+- [How to be an awesome teammate from day one as a Junior Developer with these tips](https://medium.freecodecamp.org/how-to-be-an-awesome-teammate-from-day-one-as-a-junior-developer-with-these-tips-725f04000059) - Chris Blakely
+- [Ace your first year as a junior developer with this advice](https://medium.freecodecamp.org/ace-your-first-year-as-a-junior-developer-with-this-advice-bbc68b6fe2d9) - Chris Blakely
 
 
 [Back to top ↑](#the-javascript-developers-reading-list)
