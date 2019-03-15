@@ -77,28 +77,25 @@ Luciano Mammino
 - [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond) - Kyle Simpson
 - [Principles of Object-Oriented Programming in JavaScript](https://leanpub.com/oopinjavascript) - Nicholas Zakas
 - [Understanding ECMAScript 6](https://leanpub.com/understandinges6) - Nicholas Zakas
-- Front-end Developer Handbook 2018
-- Javascript Allongé
-- Professor Frisbys Mostly Adequate Guide to Functional Programming
-- Simply JavaScript
+- [Front-end Developer Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/) - Cody Lindley
+- [Javascript Allongé](https://leanpub.com/javascriptallongesix/read) - Reg “raganwald” Braithwaite
+- [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/) - Dr. Boolean
+- [Functional-Light JavaScript: Pragmatic, Balanced FP in JavaScript](https://leanpub.com/fljs) - Kyle Simpson
 
 ### Software architecture
-- Programming JavaScript Applications: Robust Web Architecture With Node,HTML5, and Modern JS Libraries
-- Building Progressive Web Apps: Bringing the Power of Native to the Browser
-- Functional Programming in JavaScript
-- Functional-Light JavaScript: Pragmatic, Balanced FP in JavaScript
+- [Programming JavaScript Applications: Robust Web Architecture With Node,HTML5, and Modern JS Libraries](https://www.amazon.com/Programming-JavaScript-Applications-Architecture-Libraries/dp/1491950293) - Eric Elliott
+- [Building Progressive Web Apps: Bringing the Power of Native to the Browser](https://www.amazon.com/Building-Progressive-Web-Apps-Bringing-ebook/dp/B075HP52WY) - Tal Alter
+
 
 
 ### Data structures and algorithms
-- Algorithms (4th Edition)
-- Data Structures and Algorithms With JavaScript
+- [Algorithms (4th Edition)](http://www.cs.bu.edu/~snyder/cs112/CourseMaterials/AlgorithmsChapterOne.pdf) - Robert Sedgewick & Kevin Wayne
+  - *This book is included because it is a standard in understanding algorithms. It's choice of language is Java, but you can get the gist of how algorithms work in this book*.
 
 ### Miscellaneous
-- Websocket: Lightweight Client-Server Communications
-- Learning Three.js: The JavaScript 3D Library for WebGL
-- Quick JavaScript Interview Questions: Frequently Asked Question on - JavaScript
-- The Problem with Native JavaScript APIs
-- What Every JavaScript Developer Should Know About ECMAScript 2015 (OdeToCode Programming Series)
+- [Websocket: Lightweight Client-Server Communications](https://www.amazon.com/WebSocket-Client-Server-Communications-Andrew-Lombardi/dp/1449369278) - Andrew Lombardi
+- [Learning Three.js: The JavaScript 3D Library for WebGL](https://www.amazon.com/Learning-Three-js-JavaScript-Library-Second/dp/1784392219) - Jos Dirksen
+- [The Problem with Native JavaScript APIs](https://www.amazon.com/Problem-Native-JavaScript-APIs-ebook/dp/B008MYLMHG) - Nicholas Zakas
 
 
 [Back to top ↑](#the-javascript-developers-reading-list)
@@ -124,12 +121,16 @@ Gabriele Cimato
 -
 
 ### JavaScript misc.
-- [Performance vs Readability – Noteworthy - The Journal Blog](https://blog.usejournal.com/performance-vs-readability-2e9332730790) - Riccardo Polacci
-
+- [Performance vs Readability](https://blog.usejournal.com/performance-vs-readability-2e9332730790) - Riccardo Polacci
+- [So you think you're just gonna `npm install`? Think again](https://dev.to/lirantal/so-you-think-youre-just-gonna-npm-install-think-again-lh4) -
+Liran Tal
+-
 
 ### Soft skills
 - [How to be an awesome teammate from day one as a Junior Developer with these tips](https://medium.freecodecamp.org/how-to-be-an-awesome-teammate-from-day-one-as-a-junior-developer-with-these-tips-725f04000059) - Chris Blakely
 - [Ace your first year as a junior developer with this advice](https://medium.freecodecamp.org/ace-your-first-year-as-a-junior-developer-with-this-advice-bbc68b6fe2d9) - Chris Blakely
+- [The 14 habits of highly effective developers (Part 1)](https://dev.to/pavlosisaris/how-to-transition-from-junior-to-mid-level-developer-part-1-4gig) - Paul Isaris
+- [The 14 habits of highly effective developers (Part 2)](https://dev.to/pavlosisaris/the-14-habits-of-highly-effective-developers-part-2-2io0) - Paul Isaris
 
 
 [Back to top ↑](#the-javascript-developers-reading-list)
