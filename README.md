@@ -89,7 +89,7 @@ Luciano Mammino
 
 ### Data structures and algorithms
 - [Algorithms (4th Edition)](http://www.cs.bu.edu/~snyder/cs112/CourseMaterials/AlgorithmsChapterOne.pdf) - Robert Sedgewick & Kevin Wayne
-  - *This book is included because it is a standard in understanding algorithms. It's choice of language is Java, but you can get the gist of how algorithms work in this book*.
+  - *This book is included because it is a standard in understanding algorithms. Its choice of language is Java, but you can get the gist of how algorithms work in this book*.
 
 ### Miscellaneous
 - [Websocket: Lightweight Client-Server Communications](https://www.amazon.com/WebSocket-Client-Server-Communications-Andrew-Lombardi/dp/1449369278) - Andrew Lombardi
