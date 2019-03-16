@@ -22,6 +22,7 @@
   - [Miscellaneous](#miscellaneous)
 - [Articles :memo:](#articles-memo)
   - [React](#react)
+  - [Vue](#vue)
   - [Core concepts](#core-concepts-1)
   - [JavaScript misc.](#javascript-misc)
   - [Soft skills](#soft-skills)
@@ -112,6 +113,9 @@ Articles are broken down into tech stack and soft skills, as well as core JavaSc
 - [I made a mistake implementing a React Hook and got a denial of service from my backend](https://dev.to/adamwknox/i-made-a-mistake-implementing-a-react-hook-and-got-a-denial-of-service-from-my-backend-5cji) -
 DrKnoxy
 - [How Does setState Know What to Do?](https://overreacted.io/how-does-setstate-know-what-to-do/) - Dan Abramov
+
+### Vue
+- [Vue.js: Up and Running](https://www.oreilly.com/library/view/vuejs-up-and/9781491997239/) - Callum Macrae
 
 ### Core concepts
 - [JavaScript Template Literals and styled-components](https://medium.com/@celsius/javascript-template-literals-and-styled-components-d18f97500ffd) - Celsius
