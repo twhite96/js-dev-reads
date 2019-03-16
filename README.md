@@ -67,6 +67,8 @@ Luciano Mammino
 
 *Books by Flavio require a newsletter sign up but I think it is worth it.*
 
+### Vue
+- [Vue.js: Up and Running](https://www.oreilly.com/library/view/vuejs-up-and/9781491997239/) - Callum Macrae
 
 ### Core concepts
 - [Eloquent JavaScript, 3rd Edition: A Modern Introduction to Programming](https://eloquentjavascript.net/Eloquent_JavaScript.pdf) - Marijn Haverbeke
@@ -116,8 +118,6 @@ Articles are broken down into tech stack and soft skills, as well as core JavaSc
 DrKnoxy
 - [How Does setState Know What to Do?](https://overreacted.io/how-does-setstate-know-what-to-do/) - Dan Abramov
 
-### Vue
-- [Vue.js: Up and Running](https://www.oreilly.com/library/view/vuejs-up-and/9781491997239/) - Callum Macrae
 
 ### Core concepts
 - [JavaScript Template Literals and styled-components](https://medium.com/@celsius/javascript-template-literals-and-styled-components-d18f97500ffd) - Celsius
