@@ -117,13 +117,13 @@ DrKnoxy
 - [JavaScript Template Literals and styled-components](https://medium.com/@celsius/javascript-template-literals-and-styled-components-d18f97500ffd) - Celsius
 - [How to make your future self happy by writing good docs](https://dev.to/gabcimato/how-to-make-your-future-self-happy-by-writing-good-docs-h8p) -
 Gabriele Cimato
--
+
 
 ### JavaScript misc.
 - [Performance vs Readability](https://blog.usejournal.com/performance-vs-readability-2e9332730790) - Riccardo Polacci
 - [So you think you're just gonna `npm install`? Think again](https://dev.to/lirantal/so-you-think-youre-just-gonna-npm-install-think-again-lh4) -
 Liran Tal
--
+
 
 ### Soft skills
 - [How to be an awesome teammate from day one as a Junior Developer with these tips](https://medium.freecodecamp.org/how-to-be-an-awesome-teammate-from-day-one-as-a-junior-developer-with-these-tips-725f04000059) - Chris Blakely
