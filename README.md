@@ -51,6 +51,7 @@ Books are broken down by technology/stack or concept. Feel free to add yours by 
 
 
 ### React & GraphQL
+- [Learning React: A Hands-On Guide to Building Web Applications Using React and Redux (2nd Edition)](https://www.amazon.com/gp/product/013484355X/) - Kirupa Chinnathambi
 - [Progressive Web Apps With React: Create Lightning Fast Web Apps With - Native Power Using React and Firebase](https://www.amazon.com/Progressive-Web-Apps-React-lightning-ebook/dp/B076SZY9P9) - Scott Domes
 - [The Road to GraphQL](https://roadtoreact.com/course-details?courseId=THE_ROAD_TO_GRAPHQL) - Robin Wieruch
 - [The Road to Learn React: Your Journey to Master Plain Yet Pragmatic React.Js](https://roadtoreact.com/) - Robin Wieruch
@@ -61,6 +62,7 @@ Books are broken down by technology/stack or concept. Feel free to add yours by 
 Luciano Mammino
 
 ### Node
+- [Express in Action](https://www.manning.com/books/express-in-action) - Evan M. Hahn
 - [Node.js Handbook](https://flaviocopes.com/page/ebooks/) - Flavio Copes
 
 *Books by Flavio require a newsletter sign up but I think it is worth it.*
