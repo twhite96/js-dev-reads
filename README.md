@@ -15,6 +15,7 @@
 - [Books :books:](#books-books)
   - [React & GraphQL](#react--graphql)
   - [Design patterns in JavaScript](#design-patterns-in-javascript)
+  - [React Native](#react-native)
   - [Node](#node)
   - [Vue](#vue)
   - [Core concepts](#core-concepts)
@@ -61,6 +62,9 @@ Books are broken down by technology/stack or concept. Feel free to add yours by 
 - [Learning JavaScript Design Patterns: A JavaScript and jQuery Developer's Guide](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) - Addy Osmani
 - [Node.js Design Patterns](https://www.amazon.com/Node-js-Design-Patterns-server-side-applications-ebook/dp/B01D8HIIFU) - Mario Casciaro &
 Luciano Mammino
+
+### React Native
+- [Fullstack React Native: The Complete Guide to React Native](https://www.fullstackreact.com/react-native/) - Devin Abbott, Houssein Djirdeh, Anthony Accomazzo & Sophia Shoemaker
 
 ### Node
 - [Express in Action](https://www.manning.com/books/express-in-action) - Evan M. Hahn
