@@ -86,6 +86,7 @@ Luciano Mammino
 - [Javascript Allongé](https://leanpub.com/javascriptallongesix/read) - Reg “raganwald” Braithwaite
 - [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/) - Dr. Boolean
 - [Functional-Light JavaScript: Pragmatic, Balanced FP in JavaScript](https://leanpub.com/fljs) - Kyle Simpson
+- [Secrets of the JavaScript Ninja](https://www.manning.com/books/secrets-of-the-javascript-ninja) - John Resig, Bear Bibeault
 
 ### Software architecture
 - [Programming JavaScript Applications: Robust Web Architecture With Node,HTML5, and Modern JS Libraries](https://www.amazon.com/Programming-JavaScript-Applications-Architecture-Libraries/dp/1491950293) - Eric Elliott
