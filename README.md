@@ -44,7 +44,7 @@ Here I have hand-picked web development/JavaScript books and articles I have per
 
 ### Note :exclamation:
 
-> The stack most used in my list is React, GraphQL, and JavaScript, in no particular order. This is because it is the stack I am most familiar with. If you want to see Angular or Vue, [submit a pull request](https://github.com/twhite96/web-dev-must-reads/pulls). I would ask you to keep it to JavaScript technologies.
+> The stack most used in my list is React, GraphQL, and JavaScript, in no particular order. This is because it is the stack I am most familiar with. If you want to see Angular or Vue, [submit a pull request](https://github.com/twhite96/js-dev-reads/pulls). I would ask you to keep it to JavaScript technologies.
 
 ## Books :books:
 
