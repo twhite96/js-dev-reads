@@ -102,7 +102,6 @@ Luciano Mammino
 ### Data structures and algorithms
 - [Algorithms (4th Edition)](http://www.cs.bu.edu/~snyder/cs112/CourseMaterials/AlgorithmsChapterOne.pdf) - Robert Sedgewick & Kevin Wayne
   - *This book is included because it is a standard in understanding algorithms. Its choice of language is Java, but you can get the gist of how algorithms work in this book*.
-
 - [Grokking Algorithms: An illustrated guide for programmers and other curious people](https://www.manning.com/books/grokking-algorithms) - Aditya Y. Bhargava
 
 ### Miscellaneous
