@@ -103,6 +103,8 @@ Luciano Mammino
 - [Algorithms (4th Edition)](http://www.cs.bu.edu/~snyder/cs112/CourseMaterials/AlgorithmsChapterOne.pdf) - Robert Sedgewick & Kevin Wayne
   - *This book is included because it is a standard in understanding algorithms. Its choice of language is Java, but you can get the gist of how algorithms work in this book*.
 
+- [Grokking Algorithms: An illustrated guide for programmers and other curious people](https://www.manning.com/books/grokking-algorithms) - Aditya Y. Bhargava
+
 ### Miscellaneous
 - [Websocket: Lightweight Client-Server Communications](https://www.amazon.com/WebSocket-Client-Server-Communications-Andrew-Lombardi/dp/1449369278) - Andrew Lombardi
 - [Learning Three.js: The JavaScript 3D Library for WebGL](https://www.amazon.com/Learning-Three-js-JavaScript-Library-Second/dp/1784392219) - Jos Dirksen
