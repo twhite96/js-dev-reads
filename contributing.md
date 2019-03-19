@@ -10,7 +10,7 @@ If you want to add a book or article to this list, make sure it is:
 
 I appreciate that CSS is a part of web development but I *strictly* want to focus on JavaScript, libraries, frameworks, and all related technologies. This is something that I would have benefited from when I started so I want to make sure those who struggle with JavaScript have a resource.
 
-If you have something to contribute, please [submit a pull request](https://github.com/twhite96/web-dev-must-reads/pulls). All contributors are welcome.
+If you have something to contribute, please [submit a pull request](https://github.com/twhite96/js-dev-reads/pulls). All contributors are welcome.
 
 ## Updating your Pull Request
 
