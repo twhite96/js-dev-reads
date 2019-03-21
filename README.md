@@ -74,6 +74,7 @@ Luciano Mammino
 
 ### Vue
 - [Vue.js: Up and Running](https://www.oreilly.com/library/view/vuejs-up-and/9781491997239/) - Callum Macrae
+- [Fullstack Vue](https://www.fullstack.io/vue/) - Hassan Djirdeh, Nate Murray, Ari Lerner
 
 ### Core concepts
 - [Eloquent JavaScript, 3rd Edition: A Modern Introduction to Programming](https://eloquentjavascript.net/Eloquent_JavaScript.pdf) - Marijn Haverbeke
