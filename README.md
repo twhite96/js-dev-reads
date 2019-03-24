@@ -63,6 +63,8 @@ Books are broken down by technology/stack or concept. Feel free to add yours by 
 - [JavaScript Patterns](http://shop.oreilly.com/product/9780596806767.do) - Stoyan Stefanov
 - [Node.js Design Patterns](https://www.amazon.com/Node-js-Design-Patterns-server-side-applications-ebook/dp/B01D8HIIFU) - Mario Casciaro &
 Luciano Mammino
+- [Refactoring: Improving the Design of Existing Code (2nd Edition)](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599) - Martin Fowler
+  - *The 2nd edition of this book's examples was rewritten from Java to JavaScript*
 
 ### React Native
 - [Fullstack React Native: The Complete Guide to React Native](https://www.fullstackreact.com/react-native/) - Devin Abbott, Houssein Djirdeh, Anthony Accomazzo & Sophia Shoemaker
