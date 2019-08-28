@@ -82,12 +82,12 @@ Luciano Mammino
 ### Core concepts
 - [Eloquent JavaScript, 3rd Edition: A Modern Introduction to Programming](https://eloquentjavascript.net/Eloquent_JavaScript.pdf) - Marijn Haverbeke
 - [Maintainable JavaScript](https://www.amazon.com/Maintainable-JavaScript-Writing-Readable-Code/dp/1449327680) - Nicholas Zakas
-- [You Don’t Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/tree/master/up%20%26%20going) - Kyle Simpson
-- [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures) - Kyle Simpson
-- [You Don't Know JS: This & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/tree/master/this%20%26%20object%20prototypes) - Kyle Simpson
-- [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/tree/master/types%20%26%20grammar) - Kyle Simpson
-- [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/tree/master/async%20%26%20performance) - Kyle Simpson
-- [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond) - Kyle Simpson
+- [You Don’t Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/up%20%26%20going) - Kyle Simpson
+- [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/scope%20%26%20closures) - Kyle Simpson
+- [You Don't Know JS: This & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/this%20%26%20object%20prototypes) - Kyle Simpson
+- [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/types%20%26%20grammar) - Kyle Simpson
+- [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/async%20%26%20performance) - Kyle Simpson
+- [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/es6%20%26%20beyond) - Kyle Simpson
 - [Principles of Object-Oriented Programming in JavaScript](https://leanpub.com/oopinjavascript) - Nicholas Zakas
 - [Understanding ECMAScript 6](https://leanpub.com/understandinges6) - Nicholas Zakas
 - [Front-end Developer Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/) - Cody Lindley
@@ -96,6 +96,7 @@ Luciano Mammino
 - [Functional-Light JavaScript: Pragmatic, Balanced FP in JavaScript](https://leanpub.com/fljs) - Kyle Simpson
 - [Secrets of the JavaScript Ninja](https://www.manning.com/books/secrets-of-the-javascript-ninja) - John Resig, Bear Bibeault
 - [JavaScript Grammar](http://www.javascriptgrammar.com/) - Greg Sidelnikov
+- [Complete Guide to Modern JavaScript](https://github.com/AlbertoMontalesi/The-complete-guide-to-modern-JavaScript) - Alberto Montalesi
 
 ### Software architecture
 - [Programming JavaScript Applications: Robust Web Architecture With Node,HTML5, and Modern JS Libraries](https://www.amazon.com/Programming-JavaScript-Applications-Architecture-Libraries/dp/1491950293) - Eric Elliott
