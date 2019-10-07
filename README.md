@@ -76,6 +76,7 @@ Luciano Mammino
 *Books by Flavio require a newsletter sign up but I think it is worth it.*
 
 ### Vue
+- [Vue.js in Action](https://www.manning.com/books/vue-js-in-action) - Erik Hanchett with Benjamin Listwon
 - [Vue.js: Up and Running](https://www.oreilly.com/library/view/vuejs-up-and/9781491997239/) - Callum Macrae
 - [Fullstack Vue](https://www.fullstack.io/vue/) - Hassan Djirdeh, Nate Murray, Ari Lerner
 
