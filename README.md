@@ -57,6 +57,7 @@ Books are broken down by technology/stack or concept. Feel free to add yours by 
 - [Progressive Web Apps With React: Create Lightning Fast Web Apps With - Native Power Using React and Firebase](https://www.amazon.com/Progressive-Web-Apps-React-lightning-ebook/dp/B076SZY9P9) - Scott Domes
 - [The Road to GraphQL](https://roadtoreact.com/course-details?courseId=THE_ROAD_TO_GRAPHQL) - Robin Wieruch
 - [The Road to Learn React: Your Journey to Master Plain Yet Pragmatic React.Js](https://roadtoreact.com/) - Robin Wieruch
+- [The Opinionated Guide To React](https://opinionatedreact.com/) - Sara Vieira
 
 ### Design patterns in JavaScript
 - [Learning JavaScript Design Patterns: A JavaScript and jQuery Developer's Guide](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) - Addy Osmani
