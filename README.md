@@ -157,13 +157,20 @@ Liran Tal
 [Back to top ↑](#the-javascript-developers-reading-list)
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="http://includejs.dev"><img src="https://avatars.githubusercontent.com/u/17270662?v=4" width="100px;" alt=""/><br /><sub><b>edieblu</b></sub></a></td>
+    <td align="center"><a href="https://inspiredwebdev.com"><img src="https://avatars.githubusercontent.com/u/23130353?v=4" width="100px;" alt=""/><br /><sub><b>AlbertoM</b></sub></a></td>
+  </tr>
+</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
