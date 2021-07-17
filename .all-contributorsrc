@@ -1,5 +1,7 @@
 {
-  "files": ["README.md"],
+  "files": [
+    "README.md"
+  ],
   "imageSize": 100,
   "contributorsPerLine": 7,
   "contributorsSortAlphabetically": false,
@@ -12,6 +14,20 @@
       "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
     }
   },
-  "skipCi": "true",
-  "contributors": []
+  "skipCi": true,
+  "contributors": [
+    {
+      "login": "edieblu",
+      "name": "edieblu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17270662?v=4",
+      "profile": "http://includejs.dev",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "projectName": "js-dev-reads",
+  "projectOwner": "twhite96",
+  "repoType": "github",
+  "repoHost": "https://github.com"
 }
