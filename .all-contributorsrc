@@ -33,6 +33,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "astv99",
+      "name": "Stephen Ham",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5325089?v=4",
+      "profile": "https://github.com/astv99",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "js-dev-reads",
