@@ -24,6 +24,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "AlbertoMontalesi",
+      "name": "AlbertoM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23130353?v=4",
+      "profile": "https://inspiredwebdev.com",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "js-dev-reads",
