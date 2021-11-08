@@ -69,6 +69,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "webb04",
+      "name": "Jamie Webb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11618797?v=4",
+      "profile": "https://github.com/webb04",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "js-dev-reads",
