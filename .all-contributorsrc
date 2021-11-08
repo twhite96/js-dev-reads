@@ -96,6 +96,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "ujjalacharya",
+      "name": "Ujjal Acharya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19649166?v=4",
+      "profile": "http://instagram.com/acharya.uzzol",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "js-dev-reads",
