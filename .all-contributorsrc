@@ -60,6 +60,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "Yusadolat",
+      "name": "Yusuf Adeyemo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10975011?v=4",
+      "profile": "https://yusadolat.netlify.app",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "js-dev-reads",
