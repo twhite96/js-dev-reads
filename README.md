@@ -157,7 +157,7 @@ Liran Tal
 [Back to top ↑](#the-javascript-developers-reading-list)
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -172,6 +172,9 @@ Liran Tal
     <td align="center"><a href="http://aivan.io"><img src="https://avatars.githubusercontent.com/u/507464?v=4" width="100px;" alt=""/><br /><sub><b>Aivan Monceller</b></sub></a></td>
     <td align="center"><a href="https://yusadolat.netlify.app"><img src="https://avatars.githubusercontent.com/u/10975011?v=4" width="100px;" alt=""/><br /><sub><b>Yusuf Adeyemo</b></sub></a></td>
     <td align="center"><a href="https://github.com/webb04"><img src="https://avatars.githubusercontent.com/u/11618797?v=4" width="100px;" alt=""/><br /><sub><b>Jamie Webb</b></sub></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Damiloju"><img src="https://avatars.githubusercontent.com/u/23188730?v=4" width="100px;" alt=""/><br /><sub><b>Dami</b></sub></a></td>
   </tr>
 </table>
 

@@ -78,6 +78,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "Damiloju",
+      "name": "Dami",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23188730?v=4",
+      "profile": "https://github.com/Damiloju",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "js-dev-reads",
