@@ -51,6 +51,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "geocine",
+      "name": "Aivan Monceller",
+      "avatar_url": "https://avatars.githubusercontent.com/u/507464?v=4",
+      "profile": "http://aivan.io",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "js-dev-reads",

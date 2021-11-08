@@ -157,7 +157,7 @@ Liran Tal
 [Back to top ↑](#the-javascript-developers-reading-list)
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -169,6 +169,7 @@ Liran Tal
     <td align="center"><a href="https://inspiredwebdev.com"><img src="https://avatars.githubusercontent.com/u/23130353?v=4" width="100px;" alt=""/><br /><sub><b>AlbertoM</b></sub></a></td>
     <td align="center"><a href="https://github.com/astv99"><img src="https://avatars.githubusercontent.com/u/5325089?v=4" width="100px;" alt=""/><br /><sub><b>Stephen Ham</b></sub></a></td>
     <td align="center"><a href="https://github.com/nyilynnhtwe"><img src="https://avatars.githubusercontent.com/u/26655762?v=4" width="100px;" alt=""/><br /><sub><b>NyiLynnHtwe</b></sub></a></td>
+    <td align="center"><a href="http://aivan.io"><img src="https://avatars.githubusercontent.com/u/507464?v=4" width="100px;" alt=""/><br /><sub><b>Aivan Monceller</b></sub></a></td>
   </tr>
 </table>
 
