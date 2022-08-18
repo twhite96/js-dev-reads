@@ -99,6 +99,11 @@ Luciano Mammino
 - [Secrets of the JavaScript Ninja](https://www.manning.com/books/secrets-of-the-javascript-ninja) - John Resig, Bear Bibeault
 - [JavaScript Grammar](http://www.javascriptgrammar.com/) - Greg Sidelnikov
 - [Complete Guide to Modern JavaScript](https://github.com/AlbertoMontalesi/The-complete-guide-to-modern-JavaScript) - Alberto Montalesi
+- [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) - Ryan McDermott
+- [Exploring ES6](https://exploringjs.com/es6/) -  Dr. Axel Rauschmayer
+- [Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/) - Addy Osmani
+- [Deep JavaScript: Theory and techniques](https://exploringjs.com/deep-js/) - Dr. Axel Rauschmayer
+- [Understanding the DOM — Document Object Model](https://assets.digitalocean.com/books/understanding-the-dom.pdf) - Tania Rascia 
 
 ### Software architecture
 - [Programming JavaScript Applications: Robust Web Architecture With Node,HTML5, and Modern JS Libraries](https://www.amazon.com/Programming-JavaScript-Applications-Architecture-Libraries/dp/1491950293) - Eric Elliott
