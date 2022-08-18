@@ -80,6 +80,8 @@ Luciano Mammino
 - [Vue.js in Action](https://www.manning.com/books/vue-js-in-action) - Erik Hanchett with Benjamin Listwon
 - [Vue.js: Up and Running](https://www.oreilly.com/library/view/vuejs-up-and/9781491997239/) - Callum Macrae
 - [Fullstack Vue](https://www.fullstack.io/vue/) - Hassan Djirdeh, Nate Murray, Ari Lerner
+- [30 DAYS OF VUE](https://www.newline.co/30-days-of-vue) - Hassan Djirdeh, Nate Murray, Ari Lerner
+- [Learning Vue.js](https://riptutorial.com/Download/vue-js.pdf) - created from Stack Overflow Contributors
 
 ### Core concepts
 - [Eloquent JavaScript, 3rd Edition: A Modern Introduction to Programming](https://eloquentjavascript.net/Eloquent_JavaScript.pdf) - Marijn Haverbeke
@@ -99,6 +101,11 @@ Luciano Mammino
 - [Secrets of the JavaScript Ninja](https://www.manning.com/books/secrets-of-the-javascript-ninja) - John Resig, Bear Bibeault
 - [JavaScript Grammar](http://www.javascriptgrammar.com/) - Greg Sidelnikov
 - [Complete Guide to Modern JavaScript](https://github.com/AlbertoMontalesi/The-complete-guide-to-modern-JavaScript) - Alberto Montalesi
+- [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) - Ryan McDermott
+- [Exploring ES6](https://exploringjs.com/es6/) -  Dr. Axel Rauschmayer
+- [Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/) - Addy Osmani
+- [Deep JavaScript: Theory and techniques](https://exploringjs.com/deep-js/) - Dr. Axel Rauschmayer
+- [Understanding the DOM — Document Object Model](https://assets.digitalocean.com/books/understanding-the-dom.pdf) - Tania Rascia 
 
 ### Software architecture
 - [Programming JavaScript Applications: Robust Web Architecture With Node,HTML5, and Modern JS Libraries](https://www.amazon.com/Programming-JavaScript-Applications-Architecture-Libraries/dp/1491950293) - Eric Elliott
