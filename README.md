@@ -80,6 +80,8 @@ Luciano Mammino
 - [Vue.js in Action](https://www.manning.com/books/vue-js-in-action) - Erik Hanchett with Benjamin Listwon
 - [Vue.js: Up and Running](https://www.oreilly.com/library/view/vuejs-up-and/9781491997239/) - Callum Macrae
 - [Fullstack Vue](https://www.fullstack.io/vue/) - Hassan Djirdeh, Nate Murray, Ari Lerner
+- [30 DAYS OF VUE](https://www.newline.co/30-days-of-vue) - Hassan Djirdeh, Nate Murray, Ari Lerner
+- [Learning Vue.js](https://riptutorial.com/Download/vue-js.pdf) - created from Stack Overflow Contributors
 
 ### Core concepts
 - [Eloquent JavaScript, 3rd Edition: A Modern Introduction to Programming](https://eloquentjavascript.net/Eloquent_JavaScript.pdf) - Marijn Haverbeke
